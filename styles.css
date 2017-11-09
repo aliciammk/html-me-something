@@ -1,0 +1,109 @@
+body {
+    margin: 50px;
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/dust_scratches.png');
+    background-repeat: repeat;
+}
+
+header {
+    font-family: 'Sintony', sans-serif;
+    text-align: center;
+    padding: 0px, 20px, 20px, 20px;
+    margin-bottom: 50px;
+}
+
+.nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    font-family: 'Sintony', sans-serif;
+    line-height: 40px;
+    height: 40px;
+    border-bottom: 2px dashed #872244;
+    display: inline-block;
+}
+
+.nav a {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #696969;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.nav a:hover{
+    color: #872244;
+    font-weight: bold;
+
+}
+
+h1 {
+    color: #872244;
+    font-family: 'Sintony', sans-serif;
+    font-size: 100px;
+    padding-top: 20px;
+    margin-bottom: -20px;
+}
+
+h2 {
+    font-family: 'Sintony', sans-serif;
+    font-size: 14px;
+    color: #696969;
+    text-transform: uppercase;
+}
+
+h3 { 
+    font-family: 'Rufina', serif;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-family: 'Sintony', sans-serif;
+}
+
+img {
+    width: 600px;
+}
+
+figcaption {
+    font-size: 9.5px;
+    font-family: 'Rufina', serif;
+    font-style: italic;
+
+}
+
+.region {
+    font-size: 10px;
+    font-family: 'Sintony', sans-serif;
+    font-style: italic;
+}
+
+section {
+    width: 700px;
+    padding: 50px;
+
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+}
+
+footer {
+    background-color: #696969;
+    width: 700px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Sintony', sans-serif;
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
