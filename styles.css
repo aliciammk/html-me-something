@@ -107,3 +107,7 @@ footer {
     text-transform: uppercase;
 
 }
+
+#container {
+    margin: auto;
+}
